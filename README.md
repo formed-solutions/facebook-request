@@ -1,6 +1,8 @@
 # facebook-request
 Utility for requesting group lists and group feed.
 
+**NOTE** due to updates at Facebook this application will no longer download a group feed.
+
 ## Installation
 
 ```
